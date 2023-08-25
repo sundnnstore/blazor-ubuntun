@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sunyu\\BlazorUbuntu\\BlazorUbuntu.csproj",
+      "projectUniqueName": "D:\\Sunyu\\BlazorUbuntu1\\BlazorUbuntu.csproj",
       "projectName": "BlazorUbuntu",
-      "projectPath": "D:\\Sunyu\\BlazorUbuntu\\BlazorUbuntu.csproj",
+      "projectPath": "D:\\Sunyu\\BlazorUbuntu1\\BlazorUbuntu.csproj",
       "packagesPath": "C:\\Users\\yuhong\\.nuget\\packages\\",
-      "outputPath": "D:\\Sunyu\\BlazorUbuntu\\obj\\",
+      "outputPath": "D:\\Sunyu\\BlazorUbuntu1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
